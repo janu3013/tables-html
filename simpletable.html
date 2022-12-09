@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<head>
+    <style>
+        
+        th{
+            background-color: greenyellow;
+            text-align: left;
+            padding:15px;
+            
+        }
+        td
+        {
+            color:red;
+            font-size: 20;
+            height: 50px;
+            text-align:left ;
+            padding:15px
+
+        }
+        tr
+        {
+            background-color: navajowhite;
+        }
+    </style>
+    <h1>SIMPLE TABLE</h1>
+</head>
+<body>
+    <table border="1"cellspacing="0"color="black" >
+        <tr>
+            <th rowspan="3"align="left">Day</th>
+            <th colspan="3"align="left">Seminar</th>
+        </tr>
+        <tr>
+            <th colspan="2"align="left">Schedule</th>
+            <th rowspan="2"align="left">topic</th>
+        </tr>
+        <tr>
+            <th align="left">Begin</th>
+            <th align="left">End</th>
+
+        </tr>
+        <tr>
+            <td rowspan="2">Monday</td>
+            <td rowspan="2">8:00am</td>
+            <td rowspan="2">5pm</td>
+            <td>Introduction to XML</td>
+            
+        </tr>
+        <tr>
+            <td>Validity:DTD and Relax NG</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Tuesday</td>
+            <td>8am</td>
+            <td>11pm</td>
+            <td>Xpath</td>
+         </tr>
+         <tr>
+             <td>11pm</td>
+             <td>2pm</td>
+             <td rowspan="2">XSL</td>
+
+
+        </tr>
+        <tr>
+            <td>2pm</td>
+            <td>5pm</td>
+        </tr>
+        <tr>
+            <td>wednesday</td>
+            <td>8am</td>
+            <td>12pm</td>
+            <td>XSBG</td>
+        </tr>
+        
+    </table>
+</body>
