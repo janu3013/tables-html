@@ -16,3 +16,7 @@ Here are the examples for creation of tables using html,css
 ### simple non profit table
 ![Screenshot (37)](https://user-images.githubusercontent.com/114508249/206680601-c65c1683-46ca-4589-b99d-98e189c53cf0.png)
 ![Screenshot (38)](https://user-images.githubusercontent.com/114508249/206679968-aa8544ac-fd8b-4c67-9695-8f8947353898.png)
+### images
+#### It contains alignment of images,by clicking on the image ,it moves to other page(wiki page) i.e description about the image.It shows name of the image when we place cursor on it.
+### simpletable
+### simpletable1
