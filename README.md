@@ -26,7 +26,7 @@ Here are the examples for creation of tables using html,css
 
 ### simpletable
 ![Screenshot (45)](https://user-images.githubusercontent.com/114508249/206685395-1478cc1d-bfe4-4809-a646-fdc420dd8582.png)
-b-4e19-bb62-1b0e85618530.png)
+
 
 ### simpletable1
-![Screenshot (44)](https://user-images.githubusercontent.com/114508249/206685317-33899038-40d
+![Screenshot (44)](https://user-images.githubusercontent.com/114508249/206685939-cd0fa553-a6b7-4d44-80c8-597ad78562ae.png)
