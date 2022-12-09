@@ -18,5 +18,15 @@ Here are the examples for creation of tables using html,css
 ![Screenshot (38)](https://user-images.githubusercontent.com/114508249/206679968-aa8544ac-fd8b-4c67-9695-8f8947353898.png)
 ### images
 #### It contains alignment of images,by clicking on the image ,it moves to other page(wiki page) i.e description about the image.It shows name of the image when we place cursor on it.
+
+
+
+![Screenshot (46)](https://user-images.githubusercontent.com/114508249/206685265-5fbaeef4-379a-46f4-89d0-85cd774ced1d.png)
+![Screenshot (47)](https://user-images.githubusercontent.com/114508249/206685253-3d62a6b6-c32f-4848-b8c3-0409629f0ade.png)
+
 ### simpletable
+![Screenshot (45)](https://user-images.githubusercontent.com/114508249/206685395-1478cc1d-bfe4-4809-a646-fdc420dd8582.png)
+b-4e19-bb62-1b0e85618530.png)
+
 ### simpletable1
+![Screenshot (44)](https://user-images.githubusercontent.com/114508249/206685317-33899038-40d
